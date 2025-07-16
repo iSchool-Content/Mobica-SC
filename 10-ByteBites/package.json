@@ -1,0 +1,16 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "crud for posts and users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch index.js",
+    "build": "node server"
+  },
+  "author": "farouk khlaed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
